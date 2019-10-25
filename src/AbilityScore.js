@@ -10,7 +10,7 @@ class AbilityScore extends Component {
     );
   }
 
-  // TODO: switch statement is an odd choice, maybe something else...
+  // TODO: switch statement seems an odd choice, maybe something else...
   getAbilityScore(score) {
     let result = 0;
     score = parseInt(score);

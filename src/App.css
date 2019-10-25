@@ -11,10 +11,17 @@
   justify-content: center;
   text-align: left;
   font-size: calc(10px + 2vmin);
-  /* font-size: 18px; */
   color: black;
 }
 
 .div-inline {
   display:inline-block;
+}
+
+.total-points {
+  padding-top: 10px;
+}
+
+.reset-button {
+  margin-top: 10px;
 }
